@@ -1,7 +1,7 @@
-function NewMeetup() {
-  return(
-    <div>New Meetup Page</div>
-  )
+import React from 'react'
+
+function NewMeetupPage() {
+  return <div>New Meetup Page</div>;
 }
 
-export default NewMeetup;
+export default NewMeetupPage;

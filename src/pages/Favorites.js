@@ -1,7 +1,7 @@
-function Favorites() {
-  return(
-    <div>Favorites Page</div>
-  )
+import React from 'react'
+
+function FavoritesPage() {
+  return <div>Favorites Page</div>;
 }
 
-export default Favorites;
+export default FavoritesPage;
